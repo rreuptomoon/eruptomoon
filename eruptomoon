@@ -23,7 +23,7 @@
 <body style="margin:0px;background-color:black;">
         <div class="head"> Eruptomoon introdution </div>
 		
-		<img src="moon.jpg"/>
+		<img src="https://rreuptomoon.github.io/eruptomoon/moon.jpg"/>
 		
 		<div class="box">
 		
